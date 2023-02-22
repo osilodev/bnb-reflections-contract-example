@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: unlicensed
-// Solidity contract with bnb reflections in marketing wallet
+// Solidity contract with bnb reflections in marketing wallet (contract launcher)
 // Simply change the contract name, symbol, token name and taxes in lines 304, 310, 311.
 
 pragma solidity ^0.8.6;

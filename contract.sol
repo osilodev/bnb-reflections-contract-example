@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: unlicensed
 // Example solidity contract with reflections in BNB
+// Simply change the contract name, symbol, token name and taxes in lines 304, 310, 311.
 
 pragma solidity ^0.8.6;
 
